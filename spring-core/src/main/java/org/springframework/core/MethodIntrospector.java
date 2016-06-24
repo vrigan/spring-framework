@@ -144,6 +144,7 @@ public abstract class MethodIntrospector {
 
 
 	/**
+	 * 一个回调接口,用于给定方法的元数据查找
 	 * A callback interface for metadata lookup on a given method.
 	 * @param <T> the type of metadata returned
 	 */
